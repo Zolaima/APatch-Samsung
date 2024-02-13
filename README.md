@@ -12,3 +12,9 @@
 - Put your boot.img/lz4 or boot.img there.
 - Run ```chmod +x patch.sh ; bash patch.sh```
 - Wait till the patching process finishes.
+
+### Usage (video)
+
+https://github.com/ravindu644/APatch-Samsung/assets/126038496/c15ab3d0-9813-48e4-aab9-78b6e2a9efbd
+
+
